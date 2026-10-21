@@ -14,3 +14,8 @@ __pycache__/
 .env
 .vscode/
 
+orders.json
+transcript.json
+errors.log
+__pycache__/
+.DS_Store

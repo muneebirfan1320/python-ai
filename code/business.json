@@ -1,0 +1,14 @@
+{
+  "name": "Sweet Crumbs Bakery",
+  "type": "Bakery & Cafe",
+  "city": "Lahore",
+  "hours": "9 am to 10 pm, every day",
+  "delivery": "Available within 5km for 200 PKR",
+  "phone": "+92 300 1234567",
+  "prices": {
+    "chocolate cake": 1500,
+    "cupcake": 250,
+    "brownie": 300,
+    "donut": 200
+  }
+}
